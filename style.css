@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: blue;
+}
+
+input,
+textarea {
+    display: block;
+    width: 300px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+ul {
+    margin-top: 20px;
+}
